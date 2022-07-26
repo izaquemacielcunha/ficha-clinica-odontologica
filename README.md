@@ -1,5 +1,5 @@
 # ficha-clinica-odontologica
-Aplicativo que será desenvolvido gradualmente durante a disciplina de Frameworks Web da minha pós graduação em Java. O mesmo tem como objetivo a criação, edição e controle de fichas de pacientes de uma clínica odontológica.
+Aplicativo que será desenvolvido gradualmente durante a disciplina de Frameworks Web da minha pós graduação em Java. O mesmo tem como objetivo a criação, listagem, edição e exclusão de fichas de pacientes de uma clínica odontológica.
 
 #  Checklist
 
